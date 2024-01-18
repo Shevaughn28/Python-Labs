@@ -3,7 +3,6 @@ heading= "HELLO WORLD LAB 1 - ACTIVITY 2"
 a= heading.center(100)
 print(a)
 print("\n\nThis program will require the following information to be entered:")
-
 name = input("Enter Name: ") #name input 
 yob= input("Enter Year of Birth: ") #yob input
 print("\n\nHello "+ name+"! Year of birth entered is "+yob)

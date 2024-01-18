@@ -1,0 +1,14 @@
+jupyterlab==4.0.8
+mlxtend==0.23.0
+openpyxl==3.1.2
+pandas==2.1.3
+seaborn==0.13.0
+scikit-learn==1.3.2
+gensim==4.3.2
+spacy==3.7.2
+tqdm==4.66.1
+#durable-rules==2.0.28
+nltk==3.8.1
+pyro-ppl==1.8.6
+torch==2.1.1
+torchvision==0.16.1
